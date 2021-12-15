@@ -38,6 +38,5 @@
 
 
 <br>
-![Jokes Card](https://readme-jokes.vercel.app/api)
-<br>
-![Profile View Counter](https://komarev.com/ghpvc/?username=PronDmytro)
+<img src="https://readme-jokes.vercel.app/api">
+<img src="https://komarev.com/ghpvc/?username=PronDmytro">
