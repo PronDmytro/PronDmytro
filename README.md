@@ -4,7 +4,7 @@
 <a href="https://steamcommunity.com/id/PrO_NiNjA_CaT"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <br>
 ## Skills
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PronDmytro&theme=blue-green"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -33,6 +33,7 @@
 
 
 <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PronDmytro&theme=blue-green"> 
 <img src="https://github-readme-stats.vercel.app/api?username=PronDmytro&theme=blue-green">
 
 
