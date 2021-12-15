@@ -32,15 +32,9 @@
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 
 
-<br>
-<div style="display: flex;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PronDmytro&theme=blue-green"> 
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=PronDmytro&theme=blue-green">
-  </div>
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PronDmytro&theme=blue-green"> 
+[//]: # (<img src="https://github-readme-stats.vercel.app/api?username=PronDmytro&theme=blue-green">)
+
 
 <br>
 <img src="https://readme-jokes.vercel.app/api">
