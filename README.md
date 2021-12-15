@@ -33,7 +33,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PronDmytro&theme=blue-green"> 
-[//]: # (<img src="https://github-readme-stats.vercel.app/api?username=PronDmytro&theme=blue-green">)
+<!--<img src="https://github-readme-stats.vercel.app/api?username=PronDmytro&theme=blue-green">-->
 
 
 <br>
