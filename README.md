@@ -3,6 +3,7 @@
 <a href="https://stackoverflow.com/users/16766192/ninja-cat"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 <a href="https://steamcommunity.com/id/PrO_NiNjA_CaT"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <br>
+<img src="https://www.codewars.com/users/PronDmytro/badges/small">
 ## Skills
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
