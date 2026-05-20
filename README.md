@@ -1,41 +1,57 @@
-<a href="https://t.me/dmytropron"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/dmytro-pron/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/16766192/ninja-cat"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
-<a href="https://steamcommunity.com/id/PrO_NiNjA_CaT"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-<br>
-## Skills
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white">
-<img src="https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white">
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
-<img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-<img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+### Dmytro Pron
 
+**Senior Full Stack Engineer** — SaaS product development
+Angular · NestJS · Payments &amp; Integrations
 
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PronDmytro&theme=blue-green"> -->
-<img src="https://github-readme-stats.vercel.app/api?username=PronDmytro&theme=blue-green">
+```
+┌──────────────────────────────────────────────────────────┐
+│  Status     ● Open to part-time contracts (15–20h/week)  │
+│  Location   Katowice, PL  ·  UTC+1                       │
+│  Contracts  B2B / JDG                                    │
+│  Reply      within 24h                                   │
+└──────────────────────────────────────────────────────────┘
+```
 
+I build SaaS products end-to-end — from architecture and backend to frontend, integrations,
+and AI-driven automation. 5+ years across **legal-tech, fintech, investment management, and medtech**.
+Currently focused on **agentic engineering** — designing AI workflows and autonomous agents
+rather than writing everything by hand.
 
-<br>
-<img src="https://readme-jokes.vercel.app/api">
-<img src="https://komarev.com/ghpvc/?username=PronDmytro">
+---
+
+#### What I do
+
+**SaaS product development** — Full feature cycles in production codebases. Angular + NestJS,
+NX monorepos, DDD / Hexagonal Architecture. Comfortable owning both halves of the stack.
+
+**Payments &amp; third-party integrations** — Stripe, Solidgate, PSPDFKit, OneNotary, Intercom,
+PostHog, Amplitude, Growthbook. I know the edge cases you only learn by shipping.
+
+**Agentic AI workflows** — n8n + LLM pipelines that absorb operational overhead.
+Support triage, knowledge extraction, content automation.
+
+---
+
+#### Selected work
+
+- **2025 →** &nbsp;&nbsp;**Boosta** &nbsp;·&nbsp; Senior FS Eng. &nbsp;·&nbsp; Legal-tech SaaS rebuild (US &amp; Canada)
+- **2024 — 25** &nbsp;&nbsp;**Universe Group** &nbsp;·&nbsp; Senior FS Eng. &nbsp;·&nbsp; Legal SaaS rewrite, AI support analyzer, mentored team of 4
+- **2022 — 24** &nbsp;&nbsp;**Elinext** &nbsp;·&nbsp; Middle FS Eng. &nbsp;·&nbsp; 9+ Angular products: LMS, medtech, fintech, ML
+- **2021 — 22** &nbsp;&nbsp;**Krola Consulting** &nbsp;·&nbsp; Full Stack &nbsp;·&nbsp; Early-stage startups (Angular + Express)
+
+---
+
+#### Stack
+
+`Angular` · `NestJS` · `TypeScript` · `NX Monorepo` · `PostgreSQL` · `DDD / Hexagonal`
+`Stripe` · `Solidgate` · `PostHog` · `Amplitude` · `Intercom` · `PSPDFKit`
+`n8n` · `LLM APIs` · `Docker` · `AWS` · `GitHub Actions`
+
+---
+
+#### Get in touch
+
+[**Portfolio →**](https://prondmytro.github.io) &nbsp;·&nbsp;
+[Email](mailto:dmytropron5838@gmail.com) &nbsp;·&nbsp;
+[LinkedIn](https://www.linkedin.com/in/dmytro-pron/) &nbsp;·&nbsp;
+[Telegram](https://t.me/dmytropron)
