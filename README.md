@@ -3,15 +3,6 @@
 **Senior Full Stack Engineer** — SaaS product development
 Angular · NestJS · Payments &amp; Integrations
 
-```
-┌──────────────────────────────────────────────────────────┐
-│  Status     ● Open to part-time contracts (15–20h/week)  │
-│  Location   Katowice, PL  ·  UTC+1                       │
-│  Contracts  B2B / JDG                                    │
-│  Reply      within 24h                                   │
-└──────────────────────────────────────────────────────────┘
-```
-
 I build SaaS products end-to-end — from architecture and backend to frontend, integrations,
 and AI-driven automation. 5+ years across **legal-tech, fintech, investment management, and medtech**.
 Currently focused on **agentic engineering** — designing AI workflows and autonomous agents
